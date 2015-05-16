@@ -1,0 +1,22 @@
+ans1)   developing website for the internet.
+ans2)   an application through which we can operate the internet.
+ans3)   the HTML tags are interpretted by the browser and displayed as a webpage
+ans4)   its a application which acepts requests from the clients and gives responses accordingly.
+ans5)   dont know the correct answer.
+ans6)   multi threading is the main job that cpu does while running browser engines.
+ans7)   information system of interlinked documents which can be accesed through the web.
+ans8)   HTML-HyperText Markup Language.HTML is a arkup language for describing web documents.
+ans9)   language used for formatting and look of a document.
+ans10)  it is an object-oriented computer programming language commonly used to create interactive effects within web browsers.
+ans11)  dont know the answer.
+ans12)  its a source of information and also has a lot of commmunication protocols.
+ans13)  dont know the answer.
+ans14)  inter connected set of many web pages.Its very complex.
+ans15)  its used to represent names and addresses that refer to objects on the World Wide Web. 
+ans16)  its uniorm resource identifier.dont know what it does.
+ans17)  it will take the domain name from the URL.The HTTP request is sent to the web server and then web page is displayed.
+ans18)  its used when a computer or smartphone is used to connect to the internet within a particular area.
+ans19)  HTTPS is a communications protocol for secure communication over a computer network .
+ans20)   HTTPS is a communications protocol for secure communication over a computer network.
+        The File Transfer Protocol (FTP) is a standard network protocol used to transfer computer files from one host to another host.
+        SSL stands for Secure Sockets Layer. It provides a secure connection between internet browsers and websites, allowing you to transmit private data online. 

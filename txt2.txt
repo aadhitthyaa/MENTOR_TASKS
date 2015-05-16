@@ -1,0 +1,89 @@
+ans1)   Web development is a broad term for the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network).
+
+ans2)   A browser is a software application that is your gateway to the internet - a software programme installed on your computer enabling you to visit websites, 
+navigate from web page to web page, print web pages and even email. Common browser brands include Internet Explorer, Chrome, Safari, Mozilla firefox and Opera.
+
+ans3)   Web browsers consist of client software that runs on your computer and displays home pages on the Web. There are clients for a wide variety of devices,
+including Windows, Macintosh,and Unix computers.A web browser displays information on your computer by interpreting the Hypertext Markup Language (HTML) that is
+used to build home pages on the Web. Home pages usually display graphics, sound, and multimedia files, as well as links to other pages, files that can be downloaded, 
+and other Internet resources.The coding in the HTML files tells your browser how to display the text, graphics, links, and multimedia files on the home page. The HTML
+file your browser loads to display the home page doesn’t actually have the graphics, sound, multimedia files, and other resources on it. Instead, it contains HTML 
+references to those graphics and files. Your browser uses those references to find the files on the server and then display them on the home page.The web browser also
+interprets HTML tags as links to other websites, or to other web resources, such as graphics, multimedia files, newsgroups, or files to download. Depending on the link
+, it performs different actions. For example, if the HTML code specifies the link as another home page, the browser retrieves the URL specified in the HTML file when
+the user clicks the underlined link on the page. If the HTML code specifies a file to be downloaded, the browser downloads the file to your computer.
+
+ans4)   A server is a running instance of an application (software) capable of accepting requests from the client and giving responses accordingly. Servers can run on any
+ computer including dedicated computers, which individually are also often referred to as "the server".
+
+ans5)   The Web server stores all of the files necessary to display Webopedia's pages on your computer -- typically all the individual pages that comprise the entirety of
+ a Web site, any images/graphic files and any scripts that make dynamic elements of the site function.Once contact has been made, the browser requests the data from 
+the Web server, and using HTTP, the server delivers the data back to your browser. The browser in turn converts, or formats, the computer languages that the files are 
+made up of into what you see displayed in your browser. In the same way the server can send the files to many client computers at the same time, allowing multiple 
+clients to view the same page simultaneously.
+
+ans 6)   multi threading is the main job that cpu does while running browser engines.
+
+ans7)   The World Wide Web (www, W3) is an information system of interlinked hypertext documents that are accessed via the Internet and built on top of the Domain Name 
+System. It has also commonly become known simply as the Web.
+
+ans8)   HTML-HyperText Markup Language.HTML is a markup language for describing web documents (web pages).
+
+ans9)   Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language.
+
+ans10)  JAVA SCRIPT is an object-oriented computer programming language commonly used to create interactive effects within web browsers.
+
+ans11)  Domain is a distinct subset of the Internet with addresses sharing a common suffix or under the control of a particular organization or individual. 
+
+ans12)   Internet a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized 
+communication protocols.
+
+ans13)   Internet Pack provides a range of ready-to-use client and server implementations for common network protocols like HTTP, FTP or SMTP, while at the same time 
+providing easily extendable base classes that allow developers to implement their own (be it custom or standard) protocols, as needed.  
+
+ans14)   web is a complex, interconnected structure or arrangement.(often web in world wide web).
+
+ans15)   A URL is one type of Uniform Resource Identifier (URI); the generic term for all types of names and addresses that refer to objects on the World Wide Web. 
+The term "Web address" is a synonym for a URL that uses the HTTP / HTTPS protocol.
+
+ans16)   In computing, a uniform resource identifier (URI) is a string of characters used to identify a name of a resource. Such identification enables interaction 
+with representations of the resource over a network, typically the World Wide Web, using specific protocols.
+
+ans17)       The browser extracts the domain name from the URL.
+    The browser queries DNS for the IP address of the URL. Generally, the browser will have cached domains previously visited, and the operating system will have 
+cached queries from any number of applications. If neither the browser nor the OS have a cached copy of the IP address, then a request is sent off to the system's 
+configured DNS server. The client machine knows the IP address for the DNS server, so no lookup is necessary.
+    The request sent to the DNS server is almost always smaller than the maximum packet size, and is thus sent off as a single packet. In addition to the content of 
+the request, the packet includes the IP address it is destined for in its header. Except in the simplest of cases (network hubs), as the packet reaches each piece of 
+network equipment between the client and server, that equipment uses a routing table to figure out what node it is connected to that is most likely to be part of the 
+fastest route to the destination. The process of determining which path is the best choice differs between equipment and can be very complicated.
+    The is either lost (in which case the request fails or is reiterated), or makes it to its destination, the DNS server.
+    If that DNS server has the address for that domain, it will return it. Otherwise, it will forward the query along to DNS server it is configured to defer to. This 
+happens recursively until the request is fulfilled or it reaches an authoritative name server and can go no further. (If the authoritative name server doesn't 
+recognize the domain, the response indicates failure and the browser generally gives an error like "Can't find the server at www.lkliejafadh.com".) The response makes 
+its way back to the client machine much like the request traveled to the DNS server.
+    Assuming the DNS request is successful, the client machine now has an IP address that uniquely identifies a machine on the Internet. The web browser then assembles 
+an HTTP request, which consists of a header and optional content. The header includes things like the specific path being requested from the web server, the HTTP 
+version, any relevant browser cookies, etc. In the case in question (hitting Enter in the address bar), the content will be empty. In other cases, it may include form 
+data like a username and password (or the content of an image file being uploaded, etc.)
+    This HTTP request is sent off to the web server host as some number of packets, each of which is routed in the same was as the earlier DNS query. (The packets have
+ sequence numbers that allow them to be reassembled in order even if they take different paths.) Once the request arrives at the webserver, it generates a response 
+(this may be a static page, served as-is, or a more dynamic response, generated in any number of ways.) The web server software sends the generated page back to the 
+client.
+    Assuming the response HTML and not an image or data file, then the browser parses the HTML to render the page. Part of this parsing and rendering process may be 
+the discovery that the web page includes images or other embedded content that is not part of the HTML document. The browser will then send off further requests 
+(either to the original web server or different ones, as appropriate) to fetch the embedded content, which will then be rendered into the document as well.
+
+ans18)   WIFI is a facility allowing computers, smartphones, or other devices to connect to the Internet or communicate with one another wirelessly within a 
+particular area.
+
+ans19)   HTTPS is a communications protocol for secure communication over a computer network  
+The main motivation for HTTPS is to provide authentication of the visited website and to protect the privacy and integrity of exchanged data.with especially wide 
+deployment on the Internet.
+
+ans20)  HTTPS is a communications protocol for secure communication over a computer network, with especially wide deployment on the Internet. 
+        The File Transfer Protocol (FTP) is a standard network protocol used to transfer computer files from one host to another host over a TCP-based network, such 
+as the Internet. FTP is built on a client-server architecture and uses separate control and data connections between the client and the server.
+        SSL stands for Secure Sockets Layer. It provides a secure connection between internet browsers and websites, allowing you to transmit private data online. 
+Sites secured with SSL display a padlock in the browsers URL and possibly a green address bar if secured by an EV Certificate.
+        
